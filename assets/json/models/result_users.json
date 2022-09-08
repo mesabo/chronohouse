@@ -1,0 +1,21 @@
+{
+    "resultat": {
+        "status": true,
+        "exists": false,
+        "message": "success",
+        "resultat": "succès"
+    },
+    "users": [
+        {
+            "id": 9999,
+            "nom": "Messou",
+            "prenom": "Franck Junior Aboya",
+            "telephone": "2250757777500",
+            "email": "mesabo18@gmail.com",
+            "password": "123456",
+            "status": 1,
+            "cat": "2022-07-10, 21:36:20",
+            "uat": "2022-07-10, 21:36:20"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "resultat": {
+        "status": true,
+        "exists": false,
+        "message": "success",
+        "resultat": "succès"
+    },
+    "dashboards": [
+        {
+            "id": 9999,
+            "user_id": 9999,
+            "total": 0,
+            "today": 0,
+            "newsdata": 0,
+            "score": 0.0,
+            "cat": "2022-07-10, 21:36:20",
+            "uat": "2022-07-10, 21:36:20"
+        }
+    ]
+}

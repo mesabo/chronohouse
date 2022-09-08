@@ -1,0 +1,13 @@
+{
+  "status": true,
+  "message": "succes",
+  "result": 1252209.973636366,
+  "house": {
+    "AvgAreaIncome": 61907,
+    "AvgAreaHouseAge": 7,
+    "AvgAreaNumberofRooms": 6,
+    "AvgAreaNumberofBedrooms": 3,
+    "AreaPopulation": 43828,
+    "Price": 1252209.97
+  }
+}

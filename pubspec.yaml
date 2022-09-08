@@ -1,0 +1,47 @@
+name: chronohouse
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  get_storage: ^2.0.3
+  side_navigation: ^1.0.2
+  google_fonts: ^3.0.1
+  bottom_bar: ^2.0.1
+  sizer: ^2.0.15
+  intl: ^0.17.0
+  currency_formatter: ^1.2.1
+  syncfusion_flutter_charts: ^20.2.36
+  flutter_svg: ^1.1.1+1
+  intl_phone_field: ^3.1.0
+  pin_code_fields: ^7.4.0
+  fade_shimmer: ^2.0.1
+  flutter_app_minimizer: ^0.0.2
+  group_button: ^5.0.1
+  modal_bottom_sheet: ^2.1.0
+  expansion_tile_card: ^2.0.0
+  flutter_markdown: ^0.6.10+3
+  webview_flutter: ^3.0.4
+  flutter_native_splash: ^2.2.7
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets:
+    - assets/icon/
+    - assets/laucher/
+    - assets/docs/
+    - assets/svg/
+    - assets/image/
+
+  uses-material-design: true
+

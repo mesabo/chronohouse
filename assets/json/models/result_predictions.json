@@ -1,0 +1,23 @@
+{
+    "resultat": {
+        "status": true,
+        "exists": false,
+        "message": "success",
+        "resultat": "succès"
+    },
+    "predictions": [
+        {
+            "id": 9999,
+            "user_id": 9999,
+            "income": 0.0,
+            "age": 0.0,
+            "rooms": 0.0,
+            "bedrooms": 0.0,
+            "population": 0.0,
+            "address": "New York City",
+            "price": 0.0,
+            "cat": "2022-07-10, 21:36:20",
+            "uat": "2022-07-10, 21:36:20"
+        }
+    ]
+}
